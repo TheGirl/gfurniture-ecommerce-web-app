@@ -1,4 +1,30 @@
-.App {
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap'); */
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+/* <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet"> */
+body {
+  background-color: #EEF2FB;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: sensationBold;
+  src: url('./Assets/Sansation-fonts/Sansation_Bold.ttf');
+}
+
+@font-face {
+  font-family: sensationLight;
+  src: url('./Assets/Sansation-fonts/Sansation_Light.ttf');
+}
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +61,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
